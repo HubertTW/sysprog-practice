@@ -1,2 +1,9 @@
-"first push"
-
+git steps:
+1. create a repo on github
+2. git clone "repo url"
+3. git init 
+4. git remote add origin "repo url"
+5. git add .
+6. git commit -m "fisrt commit"
+7. git push -u origin master 
+*remember get the token from developer setting*
